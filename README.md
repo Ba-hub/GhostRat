@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    <img src="" alt="Gh0stRat" /> <br>    
+    <img src="https://github.com/Ba-hub/GhostRat/raw/master/logo.png" alt="Gh0stRat" /> <br>    
     Gh0stRat
 </h1>
 <p align="center">
