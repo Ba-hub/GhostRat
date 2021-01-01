@@ -1,6 +1,6 @@
 <h1 align="center"> 
     <img src="https://github.com/Ba-hub/GhostRat/raw/master/logo.png" alt="Gh0stRat" /> <br>    
-    Gh0stRat
+
 </h1>
 <p align="center">
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/platform-cross-important" alt="platform: cross" /></a>
